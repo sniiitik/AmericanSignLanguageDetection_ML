@@ -1,0 +1,36 @@
+item { 
+	name:'Deaf'
+	id:1
+}
+item { 
+	name:'Eat'
+	id:2
+}
+item { 
+	name:'Hello'
+	id:3
+}
+item { 
+	name:'Help'
+	id:4
+}
+item { 
+	name:'ILoveYou'
+	id:5
+}
+item { 
+	name:'No'
+	id:6
+}
+item { 
+	name:'Please'
+	id:7
+}
+item { 
+	name:'ThankYou'
+	id:8
+}
+item { 
+	name:'Yes'
+	id:9
+}

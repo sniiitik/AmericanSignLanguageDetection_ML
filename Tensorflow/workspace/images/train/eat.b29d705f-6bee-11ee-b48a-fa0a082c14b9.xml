@@ -1,0 +1,26 @@
+<annotation>
+	<folder>eat</folder>
+	<filename>eat.b29d705f-6bee-11ee-b48a-fa0a082c14b9.jpg</filename>
+	<path>C:\Users\Mahathi\python projects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\eat\eat.b29d705f-6bee-11ee-b48a-fa0a082c14b9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>254</ymin>
+			<xmax>282</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

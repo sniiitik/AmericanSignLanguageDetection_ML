@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>yes.554dfb7c-6bee-11ee-9fbf-fa0a082c14b9.jpg</filename>
+	<path>C:\Users\Mahathi\python projects\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes\yes.554dfb7c-6bee-11ee-9fbf-fa0a082c14b9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>290</ymin>
+			<xmax>243</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>
