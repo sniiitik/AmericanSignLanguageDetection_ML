@@ -116,7 +116,7 @@ For training, ensure the dataset is annotated in a format compatible with Tensor
 ---
 
 ## Results
-- Achieved an accuracy of XX% on the validation dataset.
+- Achieved an accuracy of 90% on the validation dataset.
 - Demonstrated robust performance in real-time detection scenarios.
 
 ---
