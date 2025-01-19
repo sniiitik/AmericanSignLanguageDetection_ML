@@ -38,6 +38,11 @@ This project was presented and published at the **[ACDSA IEEE International Conf
 
 ---
 
+## Citation
+S. Swaroop, K. Y. Prasad, G. Sai Srikar Reddy, M. Rachavelpula and U. A. Jogalekar, "Real Time Sign Language Detection," 2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA), Victoria, Seychelles, 2024, pp. 1-7, doi: 10.1109/ACDSA59508.2024.10467736. keywords: {Training;Deep learning;Sign language;Computer vision;Adaptation models;Pipelines;Computer architecture;Sign Language Detection;OpenCV;LabelImg;Tensorflow;Pipeline Deep Learning;Communication Technology;Accessibility;Inclusivity;Computer Vision;Dataset Curation;Neural Networks;Communication Barriers;Assistive Technology;Language Interpretation},
+
+---
+
 ## Features
 - Real-time sign language detection and interpretation.
 - Highly accurate recognition using TensorFlow’s Object Detection API.
