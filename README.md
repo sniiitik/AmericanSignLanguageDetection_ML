@@ -1,3 +1,9 @@
+![IEEE Published](https://img.shields.io/badge/Published%20on-IEEE-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.7%2B-yellow)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+
+
 # American Sign Language Detection using TensorFlow
 
 Developed a sign language detection system using advanced technologies including machine learning and TensorFlow (Object Detection API).
