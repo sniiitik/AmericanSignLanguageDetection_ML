@@ -24,6 +24,14 @@ This project implements a system to detect and interpret American Sign Language 
 
 ---
 
+## Publication
+This project was presented and published at the **[ACDSA IEEE International Conference on Artificial Intelligence, Computer, Data Sciences and Applications](https://www.acdsa.org)**.  
+- **Paper Title**: [Real Time Sign Language Detection](https://ieeexplore.ieee.org/document/10467736/authors#authors)  
+- **DOI**: [DOI Link](link-to-doi)
+- **Conference Details**: [2024 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)](https://www.acdsa.org)
+
+---
+
 ## Features
 - Real-time sign language detection and interpretation.
 - Highly accurate recognition using TensorFlow’s Object Detection API.
